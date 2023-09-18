@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+@media (max-width: 1587px){
+}
+body {
+  background-image: url("img/black_logo.svg");
+  background-repeat: space repeat;
+  background-size: 150px 80px;
+}
